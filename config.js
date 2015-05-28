@@ -19,8 +19,8 @@ config = {
             user: 'human.in.making@gmail.com',
             pass: 'anthropologist'
             }
+            // from: '"astrid@humaninthemaking.com"<human.in.making@gmail.com>',
           }
-          from: 'astrid@humaninthemaking.com'
         },
         database: {
             client: 'sqlite3',
